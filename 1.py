@@ -1,0 +1,5 @@
+a=float(input(7)
+b=(float)input(8)
+print=("sum"a+b)
+print=("diffrence"a_b)
+print=("division"a/b)
